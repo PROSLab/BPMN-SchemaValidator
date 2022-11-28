@@ -1,7 +1,8 @@
 # BPMN-SchemaValidator
 
-Import Project from Folder 
-Export BPMNSchemaValidator.java as a Runnable jar file
+Generate a Runnable .jar file
+
+Import Project from Folder --> Export BPMNSchemaValidator.java as a Runnable jar file
 
 args[0] = resources folder
 
